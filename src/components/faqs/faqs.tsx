@@ -68,13 +68,13 @@ export function FAQs() {
         <AccordionItemFAQs value="ai-assistant">
           <AccordionTriggerFAQs>How does the AI Assistant work?</AccordionTriggerFAQs>
           <AccordionContentFAQs>
-            <p>Our smart assistant, 'Ask Petal,' is designed to provide supportive, educational insights based on your cycle phase and wellness queries. You can type or use your voice to communicate with her naturally.</p>
+            <p>Our smart assistant, &apos;Ask Petal,&apos; is designed to provide supportive, educational insights based on your cycle phase and wellness queries. You can type or use your voice to communicate with her naturally.</p>
           </AccordionContentFAQs>
         </AccordionItemFAQs>
         <AccordionItemFAQs value="partner-dashboard">
           <AccordionTriggerFAQs>How does the Partner Dashboard work?</AccordionTriggerFAQs>
           <AccordionContentFAQs>
-            <p>You can invite your partner to join 'Partner Mode.' They will receive a simplified, secure view of your current phase and tips on how they can support you, without seeing your highly personal logging details.</p>
+            <p>You can invite your partner to join &apos;Partner Mode.&apos; They will receive a simplified, secure view of your current phase and tips on how they can support you, without seeing your highly personal logging details.</p>
           </AccordionContentFAQs>
         </AccordionItemFAQs>
       </Accordion>

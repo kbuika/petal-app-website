@@ -20,7 +20,7 @@ type Props = {
 export function DesktopNav({ items, className }: Props) {
   return (
     <nav className={cn("mx-auto flex w-full max-w-7xl items-center justify-between gap-4", className)}>
-      <Link href="/" className="font-semibold text-2xl tracking-tight">
+      <Link href="/" className="font-caprasimo text-2xl tracking-tight">
         Petal
       </Link>
       <NavigationMenu>

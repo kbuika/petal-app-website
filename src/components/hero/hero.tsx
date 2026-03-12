@@ -22,8 +22,8 @@ export function Hero() {
             Your cycle, your rules. <span className="text-foreground">Prioritizing your privacy.</span>
           </p>
         </Pill>
-        <h1 className="text-center text-4xl leading-[1.1] font-medium tracking-tight sm:text-7xl">
-          Meet the Period Tracker<span className="text-muted-foreground block">That Truly Understands You.</span>
+        <h1 className="text-center font-caprasimo text-4xl leading-[1.1] tracking-tight sm:text-7xl">
+          Meet the Period App<span className="text-[#FF0087] block">That Truly Understands You.</span>
         </h1>
         <p className="max-w-lg text-center leading-6 tracking-tight sm:text-xl">
           Beautifully designed, exceptionally private, and powered by AI. Petal helps you tune into your body's natural rhythms with phase-aware insights, effortless logging, and a built-in smart assistant.
